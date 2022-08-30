@@ -1,0 +1,21 @@
+C:\Users\HAL\AppData\Local\Temporary Projects\Inventory\bin\Debug\Inventory.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\Inventory\bin\Debug\Inventory.pdb
+C:\Users\HAL\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.frmInventory.resources
+C:\Users\HAL\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.Properties.Resources.resources
+C:\Users\HAL\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\HAL\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\HAL\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+C:\Users\HAL\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+C:\Users\HAL\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\HAL\Desktop\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\HAL\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.Properties.Resources.resources
+C:\Users\HAL\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\HAL\Desktop\Inventory\Inventory\obj\x86\Debug\Inventory.frmFilmovi.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Inventory\Inventory\obj\x86\Debug\Inventory.frmFilmovi.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Inventory\Inventory\obj\x86\Debug\Inventory.Properties.Resources.resources
+D:\__POSAO__\OneDrive - CARNET\SKOLA_NASTAVA\SKOLA-19-20\C# PROJEKTI\Inventory\Inventory\obj\x86\Debug\Inventory.csproj.GenerateResource.Cache

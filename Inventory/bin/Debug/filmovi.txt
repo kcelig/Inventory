@@ -1,0 +1,26 @@
+2
+2001 odiseja u svemiruu
+SF
+Stanley Kubrick
+True
+200
+18.4.1969. 0:00:00
+Keir Duella
+putovanje svemirom
+C:\Users\HAL\Desktop\dox\make-website\make-website\bayside\part7 – kopija\images\planine.jpg
+Deer Hunter
+Drama
+Michael Cimino
+False
+181
+18.4.1981. 0:00:00
+Rober de Niro, Christopher Walken
+vijetnamski rat
+C:\Users\HAL\Desktop\dox\make-website\make-website\bayside\part7 – kopija\images\medvjed.jpg
+6
+Akcija
+Drama
+Horror
+Komedija
+Krimi
+SF
